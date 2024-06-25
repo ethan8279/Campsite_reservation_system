@@ -55,7 +55,8 @@ Push to the branch (git push origin feature/YourFeature)
 Open a pull request
 
 - License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 - Acknowledgments
 [Insert any libraries or resources you've used or adapted here]
